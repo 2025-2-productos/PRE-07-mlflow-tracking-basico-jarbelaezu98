@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Usuario/Documents/Docs/Trabajos/Productos de Datos/PRE-07-mlflow-tracking-basico-jarbelaezu98/mlruns/434132774240452704/72b34a9999aa48d1933306971757d263/artifacts
+end_time: 1765040982652
+entry_point_name: ''
+experiment_id: '434132774240452704'
+lifecycle_stage: active
+run_id: 72b34a9999aa48d1933306971757d263
+run_name: knn_bc26efeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765040980061
+status: 3
+tags: []
+user_id: Usuario

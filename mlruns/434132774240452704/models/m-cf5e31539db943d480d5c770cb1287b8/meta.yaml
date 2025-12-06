@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Usuario/Documents/Docs/Trabajos/Productos de Datos/PRE-07-mlflow-tracking-basico-jarbelaezu98/mlruns/434132774240452704/models/m-cf5e31539db943d480d5c770cb1287b8/artifacts
+creation_timestamp: 1765040980167
+experiment_id: '434132774240452704'
+last_updated_timestamp: 1765040982642
+model_id: m-cf5e31539db943d480d5c770cb1287b8
+model_type: null
+name: model
+source_run_id: 72b34a9999aa48d1933306971757d263
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Usuario/Documents/Docs/Trabajos/Productos de Datos/PRE-07-mlflow-tracking-basico-jarbelaezu98/mlruns/434132774240452704/f322bf95e09b457f8903036cb502c548/artifacts
+end_time: 1765040978014
+entry_point_name: ''
+experiment_id: '434132774240452704'
+lifecycle_stage: active
+run_id: f322bf95e09b457f8903036cb502c548
+run_name: elasticnet_ca6e9430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765040975381
+status: 3
+tags: []
+user_id: Usuario
